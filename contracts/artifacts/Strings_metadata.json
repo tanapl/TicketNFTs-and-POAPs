@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/POAP_flattened.sol": "Strings"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/POAP_flattened.sol": {
+			"keccak256": "0x648323aaa92e660550b80fff6c489ad353f677764fe9cb6cf1034359acf2d698",
+			"urls": [
+				"bzz-raw://0212b70e616973329341926aa3f1e400482f91d9e987f6b31e258263f7ec338a",
+				"dweb:/ipfs/Qmao4YgYdNxgU7Bsd6JQfuFKMMyfVq7DyqJEgu8rGaaY2r"
+			]
+		}
+	},
+	"version": 1
+}

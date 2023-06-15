@@ -1,0 +1,101 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "contract IRegistry",
+						"name": "registry",
+						"type": "address"
+					}
+				],
+				"name": "RegistryUpdated",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "registry",
+				"outputs": [
+					{
+						"internalType": "contract IRegistry",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "contract IRegistry",
+						"name": "_registry",
+						"type": "address"
+					}
+				],
+				"name": "updateRegistry",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Whitelistable.sol": "Whitelistable"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Whitelistable.sol": {
+			"keccak256": "0x572eebe59ebc9ce6f4b58cfbf29f1d775bbb8006c0b595229151e9eaa6394c74",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bfacb929e307df9567056009dba1e97f2c2cfe6b75aa233f6bb1cfe08a0297f3",
+				"dweb:/ipfs/QmVmfW7dc5pZqaPmo8aS4RT1uy2EBEFQJqq5G1K73A6sju"
+			]
+		},
+		"contracts/interfaces/IRegistry.sol": {
+			"keccak256": "0x7e790941c22d1b984d4c9663a4a766e02a534dcd015fc9fb06b18a4c06171c4c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://444e86541b606dbf6da1e061487034c0e10fa4977495f8c0a60ba6404453c9ba",
+				"dweb:/ipfs/QmViYiNWcr1JtGi28wziXdqGqqMLoMQbhXgMvZyB1iTqF5"
+			]
+		},
+		"hardhat/console.sol": {
+			"keccak256": "0x60b0215121bf25612a6739fb2f1ec35f31ee82e4a8216c032c8243d904ab3aa9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e29880d33dd479bb046ba306993d26ccb779a4b1d94a046cb3567f22948bb4d",
+				"dweb:/ipfs/QmfTY1qzPt5C63Wc7y6JqfZr5899NRvXYdCpyLzR5FXQic"
+			]
+		}
+	},
+	"version": 1
+}
