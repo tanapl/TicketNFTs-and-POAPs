@@ -1,2 +1,6 @@
 # TicketNFTs-and-POAPs
-CIT Web3 Course
+This repository is for self-learning.
+
+### Process: Success
+
+I will update more information soon
