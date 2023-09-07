@@ -5,3 +5,4 @@ This repository is for self-learning.
 
 I will update more information soon
 * hardhat
+* ether
