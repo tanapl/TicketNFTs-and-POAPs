@@ -5,6 +5,7 @@ Make your own NFT ticket for a party!
 ### Programming
 * Solidity
 * TypeScript
+* and more
 
 ### Process: Success
 
