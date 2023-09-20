@@ -2,10 +2,13 @@
 This repository is for self-learning.
 Make your own NFT ticket for a party!
 
-### Programming
+### Programming Language
 * Solidity
 * TypeScript
 * and more
+
+### Tool
+* Remix
 
 ### Process: Success
 
