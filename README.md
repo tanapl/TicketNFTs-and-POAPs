@@ -9,7 +9,7 @@ Make your own NFT ticket for a party!
 
 ### Tool
 * Remix
-* openzeppelin
+* openzeppelin (library)
 
 ### Process: Success
 
