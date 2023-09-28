@@ -10,6 +10,7 @@ Make your own NFT ticket for a party!
 ### Tool
 * Remix (Environment)
 * openzeppelin (library)
+* hardhat
 
 ### Process: Success
 
