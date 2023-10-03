@@ -7,8 +7,10 @@ Make your own NFT ticket for a party!
 * TypeScript
 * and more
 
+### Environment
+* Remix
+
 ### Tool
-* Remix (Environment)
 * openzeppelin (library)
 * hardhat
 
