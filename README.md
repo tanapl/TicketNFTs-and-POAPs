@@ -17,5 +17,4 @@ Make your own NFT ticket for a party!
 ### Process: Success
 
 I will update more information soon
-* hardhat
 * ether
