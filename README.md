@@ -13,6 +13,7 @@ Make your own NFT ticket for a party!
 ### Tool
 * openzeppelin (library)
 * hardhat
+* Next.js
 
 ### Process: Success
 
