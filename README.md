@@ -8,7 +8,7 @@ Make your own NFT ticket for a party!
 * and more
 
 ### Environment
-* Remix (Browser)
+* Remix
 
 ### Tool
 * openzeppelin (library)
