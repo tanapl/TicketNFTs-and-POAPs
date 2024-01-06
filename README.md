@@ -5,7 +5,7 @@ Make your own NFT ticket for a party!
 ### Programming Languages
 * Solidity
 * TypeScript
-* and more
+* etc.
 
 ### Environment
 * Remix (or vscode)
